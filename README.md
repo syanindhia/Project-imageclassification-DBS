@@ -41,6 +41,6 @@ submission
 
 ---
 
-**Catatan:** Semua file tambahan seperti `assets/`, `fingerprint.pb`, dan banyaknya `.bin` di folder TFJS adalah bagian dari struktur normal model dan **tidak perlu dihapus**.
+**Catatan:** Semua file tambahan seperti `assets`, `fingerprint.pb`, dan banyaknya `.bin` di folder TFJS adalah bagian dari struktur normal model dan **tidak perlu dihapus**.
 
 ```
