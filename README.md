@@ -16,7 +16,7 @@ submission
 │   └───group1-shard*.bin
 │
 ├───tflite             # Format model untuk TensorFlow Lite (mobile/embedded)
-│   ├───model.tflite
+│   ├───plant_model.tflite
 │   └───label.txt
 │
 ├───notebook.ipynb     # Notebook proses pelatihan dan konversi model
